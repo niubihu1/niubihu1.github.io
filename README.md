@@ -2,7 +2,7 @@
 
 1：接口仓库
 ````bash
-https://niubihu1.github.io/tv8.json
+https://niubihu1.github.io/tv.json
 ````
 
 2：优选接口
